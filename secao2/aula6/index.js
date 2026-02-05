@@ -7,7 +7,16 @@ var text = "Hello World!"
 
 console.log(text);
 
-let name = "João"
+let name = "João";
+console.log(`His name is ${name} `);
+name = "Joao Pedro";
+console.log(`Sorry, his name actually is ${name}`);
 
-console.log(`${name}`);
+const name2 = "William";
+console.log(`His brother is ${name2}`);
+// name2="Otavio"
+console.log("I Can't change Willian's name beacause it is a const");
+
+
+
 

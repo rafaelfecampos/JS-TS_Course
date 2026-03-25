@@ -1,6 +1,6 @@
 const frutas = ['Pera', 'Maçã', 'Abacate'];
 
-for (let i in frutas){ //leitura de indeces
+for (let i in frutas){ //leitura de indices
     console.log(i + ' ' + frutas[i]);
 }
 
